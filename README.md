@@ -1,6 +1,6 @@
 # Safe Near-Optimal MDP (SNO-MDP)
 
-This is the source-code for implementing the algorithms in the paper "Safe Reinforcement Learning in Constrained Markov Decision Processes" which was presented in ICML-20.
+This is the source-code for implementing the algorithms in the paper "Safe Reinforcement Learning in Constrained Markov Decision Processes".
 
 ## Installation
 
@@ -70,16 +70,3 @@ If you would like to create a new environment and a start position, please use t
 ```python
 python simple_make_rand_settings.py
 ```
-
-## Citation
-
-If you find this code useful in your research, please consider citing:
-```bibtex
-@inproceedings{wachi_sui_snomdp_icml2020,
-  Author = {Akifumi Wachi and Yanan Sui},
-  Title = {Safe Reinforcement Learning in Constrained Markov Decision Processes},
-  Booktitle  = {International Conference on Machine Learning (ICML)},
-  Year = {2020}
-}
-```
-
