@@ -1,6 +1,6 @@
 # Safe Near-Optimal MDP (SNO-MDP)
 
-This is the source-code for implementing the algorithms in the paper "Safe Reinforcement Learning in Constrained Markov Decision Processes".
+This is the source-code for implementing the algorithms in the paper "Safe Reinforcement Learning in Constrained Markov Decision Processes" by @ akifumi-wachi-4
 
 ## Installation
 
