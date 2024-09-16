@@ -52,7 +52,7 @@ In this script, the agent will target for randomly specified positions.
 Run the simulation for each method:
 ```bash
 python main_oracle.py      # Safe/reward known
-python main_sno_mdp.py     # SNO-MDP (Our proposed method, Wachi and Sui, 2020)
+python main_sno_mdp.py     # SNO-MDP
 python main_safemdp.py     # SafeMDP (Turchetta et al., 2016)
 python main_seo.py         # SafeExpOpt-MDP (Wachi et al., 2018)
 ```
